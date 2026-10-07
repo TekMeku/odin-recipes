@@ -1,0 +1,19 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.recipe-list {
+  border: 1px solid black;
+  background-color: gray;
+  padding: 32px;
+}
+
+.recipe-image {
+  width: 250px;
+}
+
+.recipe-content {
+  border: 1px solid black;
+  background-color: gray;
+  padding: 15px;
+}
